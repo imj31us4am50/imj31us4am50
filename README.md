@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A student from Politehnica Bucharest that's passionate about frontend design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imj31us4am50" alt="imj31us4am50" /></a> </p>
 
 - 🌱 I’m currently learning **PHP, Python**
 
