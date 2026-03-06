@@ -2,11 +2,11 @@
 <h3 align="center">A student from Politehnica Bucharest that's passionate about frontend design.</h3>
 
 
-- 🌱 I’m currently learning **PHP, Python**
+- 🌱 I’m currently learning: **PHP, Python**
 
-- 📫 How to reach me **volosencoandreealaura@gmail.com**
+- 📫 How to reach me: **volosencoandreealaura@gmail.com**
 
-- ⚡ Fun fact **I like to learn new things. 💡**
+- ⚡ Fun fact: **I like to learn new things. 💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
